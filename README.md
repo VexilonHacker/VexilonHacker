@@ -72,11 +72,10 @@
 
 ## 📊 GitHub Stats
 
-| Streak Stats | Top Languages |
+| Stats | Top Languages |
 |--------------|----------------|
-| ![](https://github-readme-streak-stats.herokuapp.com/?user=VexilonHacker&theme=tokyonight&hide_border=true) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=VexilonHacker&theme=tokyonight&hide_border=true&layout=donut) |
+| ![](https://github-readme-stats.vercel.app/api?username=VexilonHacker&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true)<br/> | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=VexilonHacker&theme=tokyonight&hide_border=true&layout=donut) |
 
----
 
 ### ✍️ Developer Quote
 
