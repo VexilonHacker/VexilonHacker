@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm VexilonHacker ->|^u^|-></h1>
-<h3 align="center">Red Team Cybersecurity Researcher | High School Student</h3>
+<h3 align="center">Red Team Cybersecurity Researcher | 17 y/o High School Student</h3>
+
 
 ---
 
