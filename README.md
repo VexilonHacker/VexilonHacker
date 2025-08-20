@@ -8,7 +8,7 @@
 
 - 🎓 I'm a **High School Student** passionate about cybersecurity and ethical hacking.
 - 🔭 Currently working on an **ESP32 Evil Twin Attack** project.
-- 🐧 Proud **Arch Linux** user — *btw I use Arch!*
+- 🐧 *I use Arch btw*
 - 🛠️ Daily driving **Neovim** (powered by **NvChad**) as my main IDE.
 - 🤖 I’m also interested in **robotics** and hardware hacking.
 - 💬 Ask me anything about **cybersecurity, Linux, or robotics**!
