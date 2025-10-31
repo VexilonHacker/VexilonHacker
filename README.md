@@ -1,4 +1,5 @@
-<h1>Hi 👋, I'm VexilonHacker ->|G_G|-></h1>
+<h1 style="text-align: center;">Hi 👋, I'm VexilonHacker (⌐■_■)</h1>
+
 <h3>Red Team Cybersecurity Researcher | 17 y/o High School Student</h3>
 
 ---
@@ -84,10 +85,13 @@
 |:------------:|:-------------:|
 | ![](https://github-readme-stats.vercel.app/api?username=VexilonHacker&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=VexilonHacker&theme=tokyonight&hide_border=true&layout=donut) |
 
-| Developer Quote |
-|:----------------:|
-| ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight) |
-
+<div align="center">
+  <img
+    src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"
+    alt="Developer Quote"
+    style="width: 100%; max-width: 100%; height: auto;"
+  />
+</div>
 
 
 
